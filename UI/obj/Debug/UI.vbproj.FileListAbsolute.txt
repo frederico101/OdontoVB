@@ -1,0 +1,12 @@
+C:\Users\Frederico\Documents\codes\OdontoVb\UI\bin\Debug\UI.exe.config
+C:\Users\Frederico\Documents\codes\OdontoVb\UI\bin\Debug\UI.exe
+C:\Users\Frederico\Documents\codes\OdontoVb\UI\bin\Debug\UI.pdb
+C:\Users\Frederico\Documents\codes\OdontoVb\UI\bin\Debug\UI.xml
+C:\Users\Frederico\Documents\codes\OdontoVb\UI\obj\Debug\UI.vbprojAssemblyReference.cache
+C:\Users\Frederico\Documents\codes\OdontoVb\UI\obj\Debug\UI.Form1.resources
+C:\Users\Frederico\Documents\codes\OdontoVb\UI\obj\Debug\UI.Resources.resources
+C:\Users\Frederico\Documents\codes\OdontoVb\UI\obj\Debug\UI.vbproj.GenerateResource.cache
+C:\Users\Frederico\Documents\codes\OdontoVb\UI\obj\Debug\UI.vbproj.CoreCompileInputs.cache
+C:\Users\Frederico\Documents\codes\OdontoVb\UI\obj\Debug\UI.exe
+C:\Users\Frederico\Documents\codes\OdontoVb\UI\obj\Debug\UI.xml
+C:\Users\Frederico\Documents\codes\OdontoVb\UI\obj\Debug\UI.pdb
